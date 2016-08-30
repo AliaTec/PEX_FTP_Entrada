@@ -1,0 +1,8 @@
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\bin\Debug\PEX_FTP_Entrada.exe.config
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\obj\Debug\PEX_FTP_Entrada.csprojResolveAssemblyReference.cache
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\bin\Debug\PEX_FTP_Entrada.exe
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\bin\Debug\PEX_FTP_Entrada.pdb
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\bin\Debug\Renci.SshNet.dll
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\bin\Debug\Renci.SshNet.xml
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\obj\Debug\PEX_FTP_Entrada.exe
+C:\Users\Aliatec-HP\Desktop\PEX_FTP_Entrada\PEX_FTP_Entrada\obj\Debug\PEX_FTP_Entrada.pdb
